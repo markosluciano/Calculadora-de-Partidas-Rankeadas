@@ -23,4 +23,4 @@ else if (saldoVitorias> 101) {
     nivel = "Imortal"}
     
 console.log("O Herói tem de saldo de: " + saldoVitorias + " Vitórias." + " E está no nível: " + nivel)
-  
+
